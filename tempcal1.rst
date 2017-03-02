@@ -34,4 +34,4 @@ Equipment
     * - CP9001
       - 60.0 degC
       
-
+.. include:: substitutions.rst
