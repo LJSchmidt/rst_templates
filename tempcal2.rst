@@ -46,7 +46,7 @@ Procedure
 
         #) Record the temperature displayed by the new sensor.  The worksheet returns the calculated temperature additive for the unit under test.
 
-        #) Program the calculated additive into the meter.  
+        #) Program the calculated additive into the meter.  |Library|
 
         
 **************************
