@@ -14,6 +14,8 @@ Equipment
  * New sensor to calibrate and a compatible reference meter
  * Calibration tag
  
+  |Substition| 
+  
  
  Select temperature based upon the part number of the sensor undergoing calibration.
  
